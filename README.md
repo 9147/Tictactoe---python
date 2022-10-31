@@ -1,2 +1,2 @@
 # tictactoe
-this is a simple tic-tac-toe game based on python
+this is a simple tic-tac-toe game 
